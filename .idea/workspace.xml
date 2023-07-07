@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b74e5a3c-0d85-45c5-b0cb-b56f66b4e39a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CollegeTraining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drug sales and storage/.idea/Drug sales and storage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drug sales and storage/dss-springboot/dss-springboot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/Drug sales and storage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/dss-springboot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/common/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/common/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/config/MybatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/config/swaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/controller/DrugController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/controller/dto/CustomerDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/controller/dto/DrugDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/entity/Drug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/exception/ServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/mapper/CustomerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/mapper/DrugMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/java/com/example/demo/service/DrugService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/resources/mapper/customer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/src/main/resources/mapper/drug.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/DemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/common/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/config/MybatisPlusConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/config/swaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/controller/DrugController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/controller/dto/CustomerDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/controller/dto/DrugDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/entity/Drug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/exception/ServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/mapper/CustomerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/mapper/DrugMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/com/example/demo/service/DrugService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/mapper/customer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss-springboot/target/classes/mapper/drug.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/assets/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/assets/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Aside-c.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Aside-e.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Aside-s.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Header-c.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Header-e.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/Header-s.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/layout/Layout-c.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/layout/Layout-e.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/layout/Layout-s.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/Executive/drugmanage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/Executive/outlets.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/Executive/users.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/Executive/warehouses.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/customer/cart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/customer/drugsales.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/person.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/staff/outlet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/src/views/staff/warehouse.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Drug sales and storage/Drug sales and storage/dss/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-internship" beforeDir="false" afterPath="$PROJECT_DIR$/../graduation-internship" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SFQeMuPTzhba8gwHp7a8fVxzdN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/30879/Documents/java project/CollegeTraining",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="vue" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/vue3/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b74e5a3c-0d85-45c5-b0cb-b56f66b4e39a" name="更改" comment="" />
+      <created>1688739943859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688739943859</updated>
+      <workItem from="1688739944939" duration="887000" />
+      <workItem from="1688740849218" duration="1261000" />
+      <workItem from="1688742390201" duration="143000" />
+      <workItem from="1688742553887" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="43f32954-0303-4f0c-a183-33b5ca1f50a1" value="TOOL_WINDOW" />
+        <entry key="adefe23c-33ce-47c9-b2d2-4a39e9244c70" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="43f32954-0303-4f0c-a183-33b5ca1f50a1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/30879/Documents/java project/CollegeTraining" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="adefe23c-33ce-47c9-b2d2-4a39e9244c70">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1688654233355" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/30879/Documents/java project/CollegeTraining/vue3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
